@@ -1,4 +1,4 @@
-# Standard Github Repository Template
+# ASP.NET Weather Fetching Application
 
 This is a starter repo template anyone can use to make starting a github repository easier!
 
